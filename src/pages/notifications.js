@@ -14,7 +14,7 @@ export default function NotificationsPage() {
               <Avatar url={"https://images.unsplash.com/photo-1504593811423-6dd665756598?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2hpdGUlMjBtZW58ZW58MHwwfDB8fHww"}/>
         </Link>
             <div>
-              <Link href={'/profile'} className={'font-semibold mr-1 hover:underline'}>John Doe</Link>
+              <Link href={'/profile'} className={'font-semibold mr-1 hover:underline'}>Himanshu</Link>
               liked
               <Link href={''} className={'ml-1 text-socialBlue hover:underline'}>your photo</Link>
             </div>
